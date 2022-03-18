@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "firstName": "Jan",
+      "lastName": "Kowalski",
+      "department": "Administration",
+      "salary": "2000",
+      "done": false,
+      "id": 1
+    },
+    {
+      "firstName": "Janina",
+      "lastName": "Kowalska",
+      "department": "Administration",
+      "salary": "5000",
+      "done": false,
+      "id": 2
+    },
+    {
+      "firstName": "Jarosław",
+      "lastName": "Kaczyński",
+      "department": "Sales",
+      "salary": "3400",
+      "done": false,
+      "id": 3
+    },
+    {
+      "firstName": "Adam",
+      "lastName": "Małysz",
+      "department": "IT",
+      "salary": "7350",
+      "done": false,
+      "id": 4
+    },
+    {
+      "firstName": "Zbigniew ",
+      "lastName": "Ziobro",
+      "department": "Administration",
+      "salary": "1319",
+      "done": false,
+      "id": 5
+    },
+    {
+      "firstName": "James",
+      "lastName": "Dean",
+      "department": "IT",
+      "salary": "8900",
+      "done": false,
+      "id": 6
+    }
+  ]
+}

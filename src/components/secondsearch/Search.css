@@ -1,0 +1,29 @@
+.search-main {
+    text-align: center;
+    padding-top: 5%;
+    
+}
+
+.search-title {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 3rem;
+    justify-content: center;
+}
+
+.text-field {
+    color: #fff;
+}
+
+.search-box {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: aliceblue;
+}
+
+.search-list-box {
+    
+}
+
+.search-list {
+    font-size: 1.5rem;
+}
