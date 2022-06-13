@@ -9,7 +9,8 @@
 It is a simple application designed to add new employees and search for new employees.
 It is an exercise application designed to consolidate the ability to use React components, 
 use the local Json server and edit its data.
-This is just basic workin app, styles will be added soon!
+
+I'll use jsonbin.io service instead of local json-server to deploy site and use it online
 
 ![preview1](./public/preview-1.jpg)
 ![preview2](./public/preview-2.jpg)
