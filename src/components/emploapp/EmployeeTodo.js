@@ -24,9 +24,6 @@ export class EmployeeApp extends Component {
     ]
   }
 
-
-
-
   fetchTodos = () => {
     axios.get(`http://localhost:3000/todos`)
       .then(res => {
